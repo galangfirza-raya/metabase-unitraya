@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "4010", "nama_unit": "DENPASAR" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [115.1967, -8.67], [115.2367, -8.67], [115.2367, -8.63], [115.1967, -8.63], [115.1967, -8.67]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "0411", "nama_unit": "SIDOARJO" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [112.6983, -7.4678], [112.7383, -7.4678], [112.7383, -7.4278], [112.6983, -7.4278], [112.6983, -7.4678]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "9997", "nama_unit": "BRANCH ADMIN" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [106.7915, -6.2373], [106.8315, -6.2373], [106.8315, -6.1973], [106.7915, -6.1973], [106.7915, -6.2373]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "1710", "nama_unit": "LAMPUNG" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [105.2463, -5.4171], [105.2863, -5.4171], [105.2863, -5.3771], [105.2463, -5.3771], [105.2463, -5.4171]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "0310", "nama_unit": "SEMARANG" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.3967, -6.9867], [110.4367, -6.9867], [110.4367, -6.9467], [110.3967, -6.9467], [110.3967, -6.9867]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "0410", "nama_unit": "SURABAYA" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [112.7321, -7.2775], [112.7721, -7.2775], [112.7721, -7.2375], [112.7321, -7.2375], [112.7321, -7.2775]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "0320", "nama_unit": "SOLO" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.8043, -7.5866], [110.8443, -7.5866], [110.8443, -7.5466], [110.8043, -7.5466], [110.8043, -7.5866]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "1520", "nama_unit": "PALEMBANG" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [104.7366, -3.0109], [104.7766, -3.0109], [104.7766, -2.9709], [104.7366, -2.9709], [104.7366, -3.0109]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "0420", "nama_unit": "MALANG" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [112.6126, -7.9866], [112.6526, -7.9866], [112.6526, -7.9466], [112.6126, -7.9466], [112.6126, -7.9866]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "0020", "nama_unit": "WARUNG JATI" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [106.8082, -6.2931], [106.8482, -6.2931], [106.8482, -6.2531], [106.8082, -6.2531], [106.8082, -6.2931]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "1310", "nama_unit": "PEKANBARU" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [101.4278, 0.4871], [101.4678, 0.4871], [101.4678, 0.5271], [101.4278, 0.5271], [101.4278, 0.4871]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "0330", "nama_unit": "TEMANGGUNG" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.1564, -7.3364], [110.1964, -7.3364], [110.1964, -7.3164], [110.1564, -7.3164], [110.1564, -7.3364]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "0140", "nama_unit": "CIREBON" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [108.5355, -6.752], [108.5755, -6.752], [108.5755, -6.712], [108.5355, -6.712], [108.5355, -6.752]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "1314", "nama_unit": "AIR MOLEK" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [102.2678, -0.4811], [102.3078, -0.4811], [102.3078, -0.4411], [102.2678, -0.4411], [102.2678, -0.4811]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "1313", "nama_unit": "UJUNG BATU" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [100.5167, 0.6906], [100.5567, 0.6906], [100.5567, 0.7306], [100.5167, 0.7306], [100.5167, 0.6906]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "0110", "nama_unit": "BANDUNG" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [107.5991, -6.9375], [107.6391, -6.9375], [107.6391, -6.8975], [107.5991, -6.8975], [107.5991, -6.9375]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "0010", "nama_unit": "MENARA BRILIAN" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [106.7915, -6.2373], [106.8315, -6.2373], [106.8315, -6.1973], [106.7915, -6.1973], [106.7915, -6.2373]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "1110", "nama_unit": "MEDAN" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [98.6522, 3.5752], [98.6922, 3.5752], [98.6922, 3.6152], [98.6522, 3.6152], [98.6522, 3.5752]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "3210", "nama_unit": "MAKASSAR" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [119.4127, -5.1676], [119.4527, -5.1676], [119.4527, -5.1276], [119.4127, -5.1276], [119.4127, -5.1676]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "1312", "nama_unit": "LUBUK DALAM" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [101.7906, 0.5933], [101.8306, 0.5933], [101.8306, 0.6333], [101.7906, 0.6333], [101.7906, 0.5933]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "0430", "nama_unit": "LAMONGAN" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [112.3957, -7.1392], [112.4357, -7.1392], [112.4357, -7.0992], [112.3957, -7.0992], [112.3957, -7.1392]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "1311", "nama_unit": "KASIKAN" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [100.4889, 0.7512], [100.5289, 0.7512], [100.5289, 0.7912], [100.4889, 0.7912], [100.4889, 0.7512]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "0025", "nama_unit": "BEKASI" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [106.9556, -6.2583], [106.9956, -6.2583], [106.9956, -6.2183], [106.9556, -6.2183], [106.9556, -6.2583]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "kode_unit": "0350", "nama_unit": "YOGYAKARTA" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.3495, -7.8156], [110.3895, -7.8156], [110.3895, -7.7756], [110.3495, -7.7756], [110.3495, -7.8156]
+        ]]
+      }
+    }
+  ]
+}
